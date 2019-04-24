@@ -21,6 +21,7 @@ A place to keep track of books I find interesting or would like to read.
 ### Business & Economics
 
 * [The 4-Hour Chef](https://www.amazon.com/gp/product/1328519163/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+* [To-Do List Formula](https://www.amazon.com/gp/product/1539438120/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
 * ~~[Set Phasers to Stun](https://www.amazon.com/gp/product/0963617885/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)~~
 * ~~[Zero to One](https://www.amazon.com/gp/product/0804139296/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)~~
 * ~~[The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Change-Business/dp/0062060244/ref=sr_1_2?crid=3MB9MC2RC30E)~~
