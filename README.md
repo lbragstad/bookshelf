@@ -55,6 +55,7 @@ A place to keep track of books I find interesting or would like to read.
 * [A Dance with Dragons](https://www.amazon.com/gp/product/1101965487/)
 * [The 4-Hour Chef](https://www.amazon.com/gp/product/1328519163/)
 * [Grateful American](https://www.amazon.com/dp/1400208122)
+* [Switch](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752/)
 * ~~[Diary of a Player](https://www.amazon.com/Diary-Player-Musical-Heroes-Guitar/dp/1451625529/)~~
 * ~~[Ratio](https://www.amazon.com/gp/product/1416571728)~~
 * ~~[No Easy Day](https://www.amazon.com/gp/product/B0095PEFYS)~~
