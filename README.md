@@ -10,6 +10,7 @@ A place to keep track of books I find interesting or would like to read.
 * [Code Complete](https://www.amazon.com/gp/product/0735619670/)
 * [A Programmer's Introduction to Mathematics](https://www.amazon.com/gp/product/1727125452/)
 * [Refactoring Guru](https://refactoring.guru/)
+* [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/)
 * [The Cathedral & The Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/1565927249/)
 * [The Go Programming Language](https://www.gopl.io/)
 * [Clean Agile](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)
