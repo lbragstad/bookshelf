@@ -24,7 +24,7 @@ A place to keep track of books I find interesting or would like to read.
 
 ### Business & Economics
 
-* [Switch](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752/)
+* ~~[Switch](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752/)~~
 * ~~[To-Do List Formula](https://www.amazon.com/gp/product/1539438120/)~~
 * ~~[Set Phasers to Stun](https://www.amazon.com/gp/product/0963617885/)~~
 * ~~[Zero to One](https://www.amazon.com/gp/product/0804139296/)~~
