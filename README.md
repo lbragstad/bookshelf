@@ -24,6 +24,7 @@ A place to keep track of books I find interesting or would like to read.
 
 ### Business & Economics
 
+* [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/)
 * ~~[Switch](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752/)~~
 * ~~[To-Do List Formula](https://www.amazon.com/gp/product/1539438120/)~~
 * ~~[Set Phasers to Stun](https://www.amazon.com/gp/product/0963617885/)~~
