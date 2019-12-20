@@ -43,6 +43,7 @@ A place to keep track of books I find interesting or would like to read.
 
 ### Leadership
 
+* [Autumn of the Blake Snake](https://www.amazon.com/Autumn-Black-Snake-Creation-Invasion/dp/0374107343)
 * ~~[Call Sign Chaos](https://www.amazon.com/gp/product/0812996836/)~~
 * ~~[Leaders Eat Last](https://www.amazon.com/gp/product/B00DGZKQM8)~~
 * ~~[How to Influence People](https://www.amazon.com/gp/product/B00A0VP6AI/)~~
