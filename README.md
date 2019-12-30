@@ -24,6 +24,7 @@ A place to keep track of books I find interesting or would like to read.
 
 ### Business & Economics
 
+* [The Unicorn Project](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762/)
 * ~~[The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)~~
 * ~~[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/)~~
 * ~~[Switch](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752/)~~
