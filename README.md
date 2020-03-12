@@ -14,6 +14,8 @@ A place to keep track of books I find interesting or would like to read.
 * [The Cathedral & The Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/1565927249/)
 * [The Go Programming Language](https://www.gopl.io/)
 * [Head First Design Patterns](https://www.amazon.com/gp/product/B00AA36RZY)
+* [Test Driven Development: By Example](https://www.amazon.com/gp/product/0321146530)
+* [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 * ~~[Clean Agile](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)~~
 * ~~[The Clean Coder](https://www.amazon.com/gp/product/B0050JLC9Y/)~~
 * ~~[Clean Code](https://www.safaribooksonline.com/library/view/clean-code/9780136083238/)~~
