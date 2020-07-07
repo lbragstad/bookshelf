@@ -28,7 +28,7 @@ A place to keep track of books I find interesting or would like to read.
 ### Business & Economics
 
 * [7 Habits of Highly Effective People](https://www.amazon.com/gp/product/B01069X4H0/)
-* [Find Your Why](https://www.amazon.com/gp/product/B01CZCW3ZA/)
+* ~~[Find Your Why](https://www.amazon.com/gp/product/B01CZCW3ZA/)~~
 * ~~[The Unicorn Project](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762/)~~
 * ~~[The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)~~
 * ~~[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/)~~
@@ -40,7 +40,6 @@ A place to keep track of books I find interesting or would like to read.
 * ~~[Outliers](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017922/)~~
 * ~~[David and Goliath](https://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling/dp/0316204366/)~~
 * ~~[Start with Why](https://www.amazon.com/gp/product/B002Q6XUE4)~~
-* ~~[Essentialism](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Less/dp/B00IWYP5NI)~~
 
 ### Finance
 
@@ -49,10 +48,14 @@ A place to keep track of books I find interesting or would like to read.
 * ~~[The Little Book of Common Sense Investing](https://www.amazon.com/gp/product/1119404509/)~~
 * ~~[Your Money or Your Life](https://www.amazon.com/gp/product/0143115766/)~~
 
-### Leadership
+### Growth & Leadership
 
 * [Principle-Centered Leadership](https://www.amazon.com/gp/product/B07NMZ4TLM/)
 * [Autumn of the Black Snake](https://www.amazon.com/Autumn-Black-Snake-Creation-Invasion/dp/0374107343)
+* ~~[Mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)~~
+* ~~[The Happiness Hypothesis](https://www.amazon.com/The-Happiness-Hypothesis-audiobook/dp/B07D5JCWLD/)~~
+* ~~[Essentialism](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Less/dp/B00IWYP5NI)~~
+* ~~[The War of Art](https://www.amazon.com/gp/product/1936891026/)~~
 * ~~[Call Sign Chaos](https://www.amazon.com/gp/product/0812996836/)~~
 * ~~[Leaders Eat Last](https://www.amazon.com/gp/product/B00DGZKQM8)~~
 * ~~[How to Influence People](https://www.amazon.com/gp/product/B00A0VP6AI/)~~
@@ -61,7 +64,6 @@ A place to keep track of books I find interesting or would like to read.
 
 ### Recreational Reading
 
-* [The War of Art](https://www.amazon.com/gp/product/1936891026/)
 * [Chop Wood Carry Water](https://www.amazon.com/Chop-Wood-Carry-Water-Becoming/dp/153698440X)
 * ~~[A Game of Thrones](https://www.amazon.com/gp/product/1101965487/)~~
 * [A Clash of Kings](https://www.amazon.com/gp/product/1101965487/)
