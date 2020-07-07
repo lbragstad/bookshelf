@@ -24,6 +24,7 @@ A place to keep track of books I find interesting or would like to read.
 * ~~[Pragmatic Programmer](https://www.amazon.com/gp/product/020161622X/)~~
 * ~~[Apprenticeship Patterns](https://www.amazon.com/gp/product/0596518382/)~~
 * ~~[Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287)~~
+* ~~[Set Phasers to Stun](https://www.amazon.com/gp/product/0963617885/)~~
 
 ### Business & Economics
 
@@ -34,7 +35,6 @@ A place to keep track of books I find interesting or would like to read.
 * ~~[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/)~~
 * ~~[Switch](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752/)~~
 * ~~[To-Do List Formula](https://www.amazon.com/gp/product/1539438120/)~~
-* ~~[Set Phasers to Stun](https://www.amazon.com/gp/product/0963617885/)~~
 * ~~[Zero to One](https://www.amazon.com/gp/product/0804139296/)~~
 * ~~[The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Change-Business/dp/0062060244/)~~
 * ~~[Outliers](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017922/)~~
