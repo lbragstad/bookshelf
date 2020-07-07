@@ -65,7 +65,6 @@ A place to keep track of books I find interesting or would like to read.
 
 ### Recreational Reading
 
-* [Chop Wood Carry Water](https://www.amazon.com/Chop-Wood-Carry-Water-Becoming/dp/153698440X)
 * ~~[A Game of Thrones](https://www.amazon.com/gp/product/1101965487/)~~
 * [A Clash of Kings](https://www.amazon.com/gp/product/1101965487/)
 * [A Storm of Swords](https://www.amazon.com/gp/product/1101965487/)
