@@ -54,6 +54,8 @@ A place to keep track of books I find interesting or would like to read.
 
 * [Principle-Centered Leadership](https://www.amazon.com/gp/product/B07NMZ4TLM/)
 * [Autumn of the Black Snake](https://www.amazon.com/Autumn-Black-Snake-Creation-Invasion/dp/0374107343)
+* [Deep Work](https://www.amazon.com/gp/product/1455586692)
+* [It Doesn't Have To Be Crazy At Work](https://www.amazon.com/gp/product/0008323445/)
 * ~~[Mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)~~
 * ~~[The Happiness Hypothesis](https://www.amazon.com/The-Happiness-Hypothesis-audiobook/dp/B07D5JCWLD/)~~
 * ~~[Essentialism](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Less/dp/B00IWYP5NI)~~
