@@ -58,6 +58,7 @@ A place to keep track of books I find interesting or would like to read.
 * [Principle-Centered Leadership](https://www.amazon.com/gp/product/B07NMZ4TLM/)
 * [Autumn of the Black Snake](https://www.amazon.com/Autumn-Black-Snake-Creation-Invasion/dp/0374107343)
 * [Remote](https://www.amazon.com/gp/product/B00C0ALZ0W)
+* [Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/)
 * ~~[It Doesn't Have To Be Crazy At Work](https://www.amazon.com/gp/product/0008323445/)~~
 * ~~[Deep Work](https://www.amazon.com/gp/product/1455586692)~~
 * ~~[Mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)~~
