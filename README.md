@@ -71,6 +71,14 @@ A place to keep track of books I find interesting or would like to read.
 * ~~[How Successful People Think](https://www.amazon.com/gp/product/B00199RHE8/)~~
 * ~~[Winning with People](https://www.amazon.com/gp/product/B0050OX37I/)~~
 
+### Westerns
+
+* ~~[The Rustlers of West Fork](https://www.amazon.com/The-Rustlers-of-West-Fork-audiobook/dp/B0076G1ZGE)~~
+* ~~[The Killers of Cimarron](https://www.amazon.com/Killers-Cimarron-Frank-Leslie/dp/0451230299)~~
+* [Hondo](https://www.amazon.com/gp/product/B01FIW2GFG)
+* [True Grit](https://www.amazon.com/gp/product/1468306294)
+* [The Son](https://www.amazon.com/gp/product/0062669818)
+
 ### Recreational Reading
 
 * ~~[A Game of Thrones](https://www.amazon.com/gp/product/1101965487/)~~
