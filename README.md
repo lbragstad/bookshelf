@@ -13,15 +13,17 @@ A place to keep track of books I find interesting or would like to read.
 * [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/)
 * [Test-Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 * [The Cathedral & The Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/1565927249/)
-* [The Go Programming Language](https://www.gopl.io/)
 * [Head First Design Patterns](https://www.amazon.com/gp/product/B00AA36RZY)
 * [Test Driven Development: By Example](https://www.amazon.com/gp/product/0321146530)
 * [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 * [To Engineer Is Human](https://www.amazon.com/Engineer-Human-Failure-Successful-Design/dp/0679734163)
 * [Site Reliability Engineering](https://landing.google.com/sre/books/)
+* [Building Secure & Reliable Systems](https://landing.google.com/sre/books/)
+* [The Site Reliability Workbook](https://landing.google.com/sre/books/)
 * [The Effective Engineer](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
 * [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-dp-1934356344/dp/1934356344/)
 * [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
+* ~~[The Go Programming Language](https://www.gopl.io/)~~
 * ~~[Clean Agile](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)~~
 * ~~[The Clean Coder](https://www.amazon.com/gp/product/B0050JLC9Y/)~~
 * ~~[Clean Code](https://www.safaribooksonline.com/library/view/clean-code/9780136083238/)~~
@@ -58,6 +60,7 @@ A place to keep track of books I find interesting or would like to read.
 * [Principle-Centered Leadership](https://www.amazon.com/gp/product/B07NMZ4TLM/)
 * [Autumn of the Black Snake](https://www.amazon.com/Autumn-Black-Snake-Creation-Invasion/dp/0374107343)
 * [Remote](https://www.amazon.com/gp/product/B00C0ALZ0W)
+* [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/)
 * [Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/)
 * ~~[It Doesn't Have To Be Crazy At Work](https://www.amazon.com/gp/product/0008323445/)~~
 * ~~[Deep Work](https://www.amazon.com/gp/product/1455586692)~~
@@ -73,11 +76,11 @@ A place to keep track of books I find interesting or would like to read.
 
 ### Westerns
 
-* ~~[The Rustlers of West Fork](https://www.amazon.com/The-Rustlers-of-West-Fork-audiobook/dp/B0076G1ZGE)~~
-* ~~[The Killers of Cimarron](https://www.amazon.com/Killers-Cimarron-Frank-Leslie/dp/0451230299)~~
 * [Hondo](https://www.amazon.com/gp/product/B01FIW2GFG)
 * [True Grit](https://www.amazon.com/gp/product/1468306294)
 * [The Son](https://www.amazon.com/gp/product/0062669818)
+* ~~[The Rustlers of West Fork](https://www.amazon.com/The-Rustlers-of-West-Fork-audiobook/dp/B0076G1ZGE)~~
+* ~~[The Killers of Cimarron](https://www.amazon.com/Killers-Cimarron-Frank-Leslie/dp/0451230299)~~
 
 ### Recreational Reading
 
