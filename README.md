@@ -11,7 +11,6 @@ A place to keep track of books I find interesting or would like to read.
 * [A Programmer's Introduction to Mathematics](https://www.amazon.com/gp/product/1727125452/)
 * [Refactoring Guru](https://refactoring.guru/)
 * [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/)
-* [Test-Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 * [The Cathedral & The Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/1565927249/)
 * [Head First Design Patterns](https://www.amazon.com/gp/product/B00AA36RZY)
 * [Test Driven Development: By Example](https://www.amazon.com/gp/product/0321146530)
@@ -23,6 +22,8 @@ A place to keep track of books I find interesting or would like to read.
 * [The Effective Engineer](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
 * [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-dp-1934356344/dp/1934356344/)
 * [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
+* [Stalking The Wily Hacker](http://pdf.textfiles.com/academics/wilyhacker.pdf)
+* [The Cuckoo's Egg](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787)
 * ~~[The Go Programming Language](https://www.gopl.io/)~~
 * ~~[Clean Agile](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)~~
 * ~~[The Clean Coder](https://www.amazon.com/gp/product/B0050JLC9Y/)~~
