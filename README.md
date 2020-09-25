@@ -92,6 +92,8 @@ A place to keep track of books I find interesting or would like to read.
 * [A Dance with Dragons](https://www.amazon.com/gp/product/1101965487/)
 * [The 4-Hour Chef](https://www.amazon.com/gp/product/1328519163/)
 * [Grateful American](https://www.amazon.com/dp/1400208122)
+* [The Guns of August](https://www.amazon.com/Guns-August-Pulitzer-Prize-Winning-Outbreak/dp/0345476093/)
+* ~~[1984](https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934)~~
 * ~~[Diary of a Player](https://www.amazon.com/Diary-Player-Musical-Heroes-Guitar/dp/1451625529/)~~
 * ~~[Ratio](https://www.amazon.com/gp/product/1416571728)~~
 * ~~[No Easy Day](https://www.amazon.com/gp/product/B0095PEFYS)~~
