@@ -24,7 +24,6 @@ A place to keep track of books I find interesting or would like to read.
 * [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
 * [Stalking The Wily Hacker](http://pdf.textfiles.com/academics/wilyhacker.pdf)
 * [The Cuckoo's Egg](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787)
-* [To Engineer Is Human](https://www.amazon.com/Engineer-Human-Failure-Successful-Design/dp/0679734163)
 * ~~[The Go Programming Language](https://www.gopl.io/)~~
 * ~~[Clean Agile](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)~~
 * ~~[The Clean Coder](https://www.amazon.com/gp/product/B0050JLC9Y/)~~
@@ -64,6 +63,7 @@ A place to keep track of books I find interesting or would like to read.
 * [Remote](https://www.amazon.com/gp/product/B00C0ALZ0W)
 * [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/)
 * [Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/)
+* [An Elegant Puzzle](https://lethain.com/elegant-puzzle/)
 * ~~[It Doesn't Have To Be Crazy At Work](https://www.amazon.com/gp/product/0008323445/)~~
 * ~~[Deep Work](https://www.amazon.com/gp/product/1455586692)~~
 * ~~[Mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)~~
