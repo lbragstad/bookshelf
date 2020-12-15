@@ -23,6 +23,7 @@ A place to keep track of books I find interesting or would like to read.
 * [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
 * [Stalking The Wily Hacker](http://pdf.textfiles.com/academics/wilyhacker.pdf)
 * [The Cuckoo's Egg](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787)
+* [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
 * ~~[To Engineer Is Human](https://www.amazon.com/Engineer-Human-Failure-Successful-Design/dp/0679734163)~~
 * ~~[The Go Programming Language](https://www.gopl.io/)~~
 * ~~[Clean Agile](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)~~
@@ -48,6 +49,11 @@ A place to keep track of books I find interesting or would like to read.
 * ~~[Outliers](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017922/)~~
 * ~~[David and Goliath](https://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling/dp/0316204366/)~~
 * ~~[Start with Why](https://www.amazon.com/gp/product/B002Q6XUE4)~~
+
+### Writing
+
+* [On Writing Well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
+* [Elements of Style](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X)
 
 ### Finance
 
