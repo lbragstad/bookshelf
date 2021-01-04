@@ -52,7 +52,7 @@ A place to keep track of books I find interesting or would like to read.
 
 ### Writing
 
-* [On Writing Well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
+* ~~[On Writing Well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)~~
 * [Elements of Style](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X)
 
 ### Finance
