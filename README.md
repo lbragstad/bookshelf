@@ -53,7 +53,7 @@ A place to keep track of books I find interesting or would like to read.
 ### Writing
 
 * ~~[On Writing Well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)~~
-* [Elements of Style](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X)
+* ~~[Elements of Style](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X)~~
 
 ### Finance
 
@@ -66,10 +66,10 @@ A place to keep track of books I find interesting or would like to read.
 
 * [Principle-Centered Leadership](https://www.amazon.com/gp/product/B07NMZ4TLM/)
 * [Autumn of the Black Snake](https://www.amazon.com/Autumn-Black-Snake-Creation-Invasion/dp/0374107343)
-* [Remote](https://www.amazon.com/gp/product/B00C0ALZ0W)
-* [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/)
 * [Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/)
 * [An Elegant Puzzle](https://lethain.com/elegant-puzzle/)
+* ~~[Remote](https://www.amazon.com/gp/product/B00C0ALZ0W)~~
+* ~~[Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/)~~
 * ~~[The Righteous Mind](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777)~~
 * ~~[It Doesn't Have To Be Crazy At Work](https://www.amazon.com/gp/product/0008323445/)~~
 * ~~[Deep Work](https://www.amazon.com/gp/product/1455586692)~~
@@ -101,6 +101,7 @@ A place to keep track of books I find interesting or would like to read.
 * [The 4-Hour Chef](https://www.amazon.com/gp/product/1328519163/)
 * [Grateful American](https://www.amazon.com/dp/1400208122)
 * [The Guns of August](https://www.amazon.com/Guns-August-Pulitzer-Prize-Winning-Outbreak/dp/0345476093/)
+* [Joe Rochefort's War](https://www.amazon.com/Joe-Rocheforts-War-Codebreaker-Outwitted/dp/1591141613)
 * ~~[1984](https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934)~~
 * ~~[Diary of a Player](https://www.amazon.com/Diary-Player-Musical-Heroes-Guitar/dp/1451625529/)~~
 * ~~[Ratio](https://www.amazon.com/gp/product/1416571728)~~
