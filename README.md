@@ -70,11 +70,8 @@ A place to keep track of books I find interesting or would like to read.
 * [An Elegant Puzzle](https://lethain.com/elegant-puzzle/)
 * ~~[Remote](https://www.amazon.com/gp/product/B00C0ALZ0W)~~
 * ~~[Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/)~~
-* ~~[The Righteous Mind](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777)~~
 * ~~[It Doesn't Have To Be Crazy At Work](https://www.amazon.com/gp/product/0008323445/)~~
 * ~~[Deep Work](https://www.amazon.com/gp/product/1455586692)~~
-* ~~[Mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)~~
-* ~~[The Happiness Hypothesis](https://www.amazon.com/The-Happiness-Hypothesis-audiobook/dp/B07D5JCWLD/)~~
 * ~~[Essentialism](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Less/dp/B00IWYP5NI)~~
 * ~~[The War of Art](https://www.amazon.com/gp/product/1936891026/)~~
 * ~~[Call Sign Chaos](https://www.amazon.com/gp/product/0812996836/)~~
@@ -82,6 +79,13 @@ A place to keep track of books I find interesting or would like to read.
 * ~~[How to Influence People](https://www.amazon.com/gp/product/B00A0VP6AI/)~~
 * ~~[How Successful People Think](https://www.amazon.com/gp/product/B00199RHE8/)~~
 * ~~[Winning with People](https://www.amazon.com/gp/product/B0050OX37I/)~~
+
+### Psychology
+
+* [Spark](https://www.amazon.com/Spark-Revolutionary-Science-Exercise-Brain/dp/0316113506)
+* ~~[The Righteous Mind](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777)~~
+* ~~[The Happiness Hypothesis](https://www.amazon.com/The-Happiness-Hypothesis-audiobook/dp/B07D5JCWLD/)~~
+* ~~[Mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)~~
 
 ### Westerns
 
