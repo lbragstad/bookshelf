@@ -24,7 +24,7 @@ A place to keep track of books I find interesting or would like to read.
 * [Stalking The Wily Hacker](http://pdf.textfiles.com/academics/wilyhacker.pdf)
 * [The Cuckoo's Egg](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787)
 * [Programming Kubernetes](https://www.amazon.com/Programming-Kubernetes-Developing-Cloud-Native-Applications/dp/1492047104)
-* ~~[Staff Engineer](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG)
+* ~~[Staff Engineer](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG)~~
 * ~~[The Staff Engineer's Path](https://www.amazon.com/Staff-Engineers-Path-Tanya-Reilly-ebook/dp/B0BG16Y553)~~
 * ~~[The Fifth Domain](https://www.amazon.com/Fifth-Domain-Defending-Companies-Ourselves-ebook/dp/B07JKHF7VM)~~
 * ~~[Sandworm](https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers-ebook/dp/B07GD4MFW2)~~
