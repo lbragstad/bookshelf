@@ -23,7 +23,13 @@ A place to keep track of books I find interesting or would like to read.
 * [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
 * [Stalking The Wily Hacker](http://pdf.textfiles.com/academics/wilyhacker.pdf)
 * [The Cuckoo's Egg](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787)
-* [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
+* [Programming Kubernetes](https://www.amazon.com/Programming-Kubernetes-Developing-Cloud-Native-Applications/dp/1492047104)
+* ~~[Staff Engineer](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG)
+* ~~[The Staff Engineer's Path](https://www.amazon.com/Staff-Engineers-Path-Tanya-Reilly-ebook/dp/B0BG16Y553)~~
+* ~~[The Fifth Domain](https://www.amazon.com/Fifth-Domain-Defending-Companies-Ourselves-ebook/dp/B07JKHF7VM)~~
+* ~~[Sandworm](https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers-ebook/dp/B07GD4MFW2)~~
+* ~~[Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)~~
+* ~~[The Existential Pleasures of Engineering](https://www.amazon.com/Existential-Pleasures-Engineering-Thomas-Dunne/dp/0312141041)~~
 * ~~[To Engineer Is Human](https://www.amazon.com/Engineer-Human-Failure-Successful-Design/dp/0679734163)~~
 * ~~[The Go Programming Language](https://www.gopl.io/)~~
 * ~~[Clean Agile](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)~~
@@ -50,6 +56,40 @@ A place to keep track of books I find interesting or would like to read.
 * ~~[David and Goliath](https://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling/dp/0316204366/)~~
 * ~~[Start with Why](https://www.amazon.com/gp/product/B002Q6XUE4)~~
 
+### Growth & Leadership
+
+* [Principle-Centered Leadership](https://www.amazon.com/gp/product/B07NMZ4TLM/)
+* [Autumn of the Black Snake](https://www.amazon.com/Autumn-Black-Snake-Creation-Invasion/dp/0374107343)
+* [An Elegant Puzzle](https://lethain.com/elegant-puzzle/)
+* ~~[Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/)~~
+* ~~[Remote](https://www.amazon.com/gp/product/B00C0ALZ0W)~~
+* ~~[Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/)~~
+* ~~[It Doesn't Have To Be Crazy At Work](https://www.amazon.com/gp/product/0008323445/)~~
+* ~~[Deep Work](https://www.amazon.com/gp/product/1455586692)~~
+* ~~[Effortless](https://www.amazon.com/Effortless-Make-Easier-What-Matters-ebook/dp/B08F4GGQ2K)
+* ~~[Essentialism](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Less/dp/B00IWYP5NI)
+* ~~[The War of Art](https://www.amazon.com/gp/product/1936891026/)~~
+* ~~[Call Sign Chaos](https://www.amazon.com/gp/product/0812996836/)~~
+* ~~[Leaders Eat Last](https://www.amazon.com/gp/product/B00DGZKQM8)~~
+* ~~[How to Influence People](https://www.amazon.com/gp/product/B00A0VP6AI/)~~
+* ~~[How Successful People Think](https://www.amazon.com/gp/product/B00199RHE8/)~~
+* ~~[Winning with People](https://www.amazon.com/gp/product/B0050OX37I/)~~
+* [The Guns of August](https://www.amazon.com/Guns-August-Pulitzer-Prize-Winning-Outbreak/dp/0345476093/)
+* [Joe Rochefort's War](https://www.amazon.com/Joe-Rocheforts-War-Codebreaker-Outwitted/dp/1591141613)
+
+### Psychology & Philosophy
+
+* [Spark](https://www.amazon.com/Spark-Revolutionary-Science-Exercise-Brain/dp/0316113506)
+* ~~[Flow](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202)~~
+* ~~[Range](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM)~~
+* ~~[The Righteous Mind](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777)~~
+* ~~[The Happiness Hypothesis](https://www.amazon.com/The-Happiness-Hypothesis-audiobook/dp/B07D5JCWLD/)~~
+* ~~[Mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)~~
+* ~~[The Obstacle Is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph-ebook/dp/B00G3L1B8K)~~
+* ~~[Ego Is the Enemy](https://www.amazon.com/gp/product/B015NTIXWE)~~
+* ~~[Stillness Is the Key](https://www.amazon.com/gp/product/B07MJ3TDCZ)~~
+* ~~[Mediations](https://www.amazon.com/Meditations-New-Translation-Modern-Library-ebook/dp/B000FC1JAI)~~
+
 ### Writing
 
 * ~~[On Writing Well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)~~
@@ -61,53 +101,3 @@ A place to keep track of books I find interesting or would like to read.
 * [The Intelligent Investor](https://www.amazon.com/gp/product/B00V7328GS/)
 * ~~[The Little Book of Common Sense Investing](https://www.amazon.com/gp/product/1119404509/)~~
 * ~~[Your Money or Your Life](https://www.amazon.com/gp/product/0143115766/)~~
-
-### Growth & Leadership
-
-* [Principle-Centered Leadership](https://www.amazon.com/gp/product/B07NMZ4TLM/)
-* [Autumn of the Black Snake](https://www.amazon.com/Autumn-Black-Snake-Creation-Invasion/dp/0374107343)
-* [Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/)
-* [An Elegant Puzzle](https://lethain.com/elegant-puzzle/)
-* ~~[Remote](https://www.amazon.com/gp/product/B00C0ALZ0W)~~
-* ~~[Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/)~~
-* ~~[It Doesn't Have To Be Crazy At Work](https://www.amazon.com/gp/product/0008323445/)~~
-* ~~[Deep Work](https://www.amazon.com/gp/product/1455586692)~~
-* ~~[Essentialism](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Less/dp/B00IWYP5NI)~~
-* ~~[The War of Art](https://www.amazon.com/gp/product/1936891026/)~~
-* ~~[Call Sign Chaos](https://www.amazon.com/gp/product/0812996836/)~~
-* ~~[Leaders Eat Last](https://www.amazon.com/gp/product/B00DGZKQM8)~~
-* ~~[How to Influence People](https://www.amazon.com/gp/product/B00A0VP6AI/)~~
-* ~~[How Successful People Think](https://www.amazon.com/gp/product/B00199RHE8/)~~
-* ~~[Winning with People](https://www.amazon.com/gp/product/B0050OX37I/)~~
-
-### Psychology
-
-* [Spark](https://www.amazon.com/Spark-Revolutionary-Science-Exercise-Brain/dp/0316113506)
-* ~~[The Righteous Mind](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777)~~
-* ~~[The Happiness Hypothesis](https://www.amazon.com/The-Happiness-Hypothesis-audiobook/dp/B07D5JCWLD/)~~
-* ~~[Mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)~~
-
-### Westerns
-
-* [Hondo](https://www.amazon.com/gp/product/B01FIW2GFG)
-* [True Grit](https://www.amazon.com/gp/product/1468306294)
-* [The Son](https://www.amazon.com/gp/product/0062669818)
-* ~~[The Rustlers of West Fork](https://www.amazon.com/The-Rustlers-of-West-Fork-audiobook/dp/B0076G1ZGE)~~
-* ~~[The Killers of Cimarron](https://www.amazon.com/Killers-Cimarron-Frank-Leslie/dp/0451230299)~~
-
-### Recreational Reading
-
-* ~~[A Game of Thrones](https://www.amazon.com/gp/product/1101965487/)~~
-* [A Clash of Kings](https://www.amazon.com/gp/product/1101965487/)
-* [A Storm of Swords](https://www.amazon.com/gp/product/1101965487/)
-* [A Feast for Crows](https://www.amazon.com/gp/product/1101965487/)
-* [A Dance with Dragons](https://www.amazon.com/gp/product/1101965487/)
-* [The 4-Hour Chef](https://www.amazon.com/gp/product/1328519163/)
-* [Grateful American](https://www.amazon.com/dp/1400208122)
-* [The Guns of August](https://www.amazon.com/Guns-August-Pulitzer-Prize-Winning-Outbreak/dp/0345476093/)
-* [Joe Rochefort's War](https://www.amazon.com/Joe-Rocheforts-War-Codebreaker-Outwitted/dp/1591141613)
-* ~~[1984](https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934)~~
-* ~~[Diary of a Player](https://www.amazon.com/Diary-Player-Musical-Heroes-Guitar/dp/1451625529/)~~
-* ~~[Ratio](https://www.amazon.com/gp/product/1416571728)~~
-* ~~[No Easy Day](https://www.amazon.com/gp/product/B0095PEFYS)~~
-* ~~[Someone Could Get Hurt](https://www.amazon.com/Someone-Could-Get-Hurt-Twenty-First-Century/dp/1592408761/)~~
