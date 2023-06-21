@@ -2,8 +2,6 @@
 
 A place to keep track of books I find interesting or would like to read.
 
-## Reading List
-
 ## Reading
 
 * [Programming Kubernetes](https://www.amazon.com/Programming-Kubernetes-Developing-Cloud-Native-Applications/dp/1492047104)
