@@ -44,7 +44,6 @@ A place to keep track of books I find interesting or would like to read.
 ### Business & Economics
 
 * [7 Habits of Highly Effective People](https://www.amazon.com/gp/product/B01069X4H0/)
-* ~~[Find Your Why](https://www.amazon.com/gp/product/B01CZCW3ZA/)~~
 * ~~[The Unicorn Project](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762/)~~
 * ~~[The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)~~
 * ~~[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/)~~
@@ -55,19 +54,21 @@ A place to keep track of books I find interesting or would like to read.
 * ~~[Outliers](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017922/)~~
 * ~~[David and Goliath](https://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling/dp/0316204366/)~~
 * ~~[Start with Why](https://www.amazon.com/gp/product/B002Q6XUE4)~~
+* ~~[Find Your Why](https://www.amazon.com/gp/product/B01CZCW3ZA/)~~
 
 ### Growth & Leadership
 
 * [Principle-Centered Leadership](https://www.amazon.com/gp/product/B07NMZ4TLM/)
 * [Autumn of the Black Snake](https://www.amazon.com/Autumn-Black-Snake-Creation-Invasion/dp/0374107343)
 * [An Elegant Puzzle](https://lethain.com/elegant-puzzle/)
+* ~~[Don't Sweat the Small Stuff and It's All Small Stuff](https://www.amazon.com/Dont-Sweat-Small-Stuff-Its-ebook/dp/B000FC1VX8)~~
 * ~~[Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/)~~
 * ~~[Remote](https://www.amazon.com/gp/product/B00C0ALZ0W)~~
 * ~~[Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/)~~
 * ~~[It Doesn't Have To Be Crazy At Work](https://www.amazon.com/gp/product/0008323445/)~~
 * ~~[Deep Work](https://www.amazon.com/gp/product/1455586692)~~
-* ~~[Effortless](https://www.amazon.com/Effortless-Make-Easier-What-Matters-ebook/dp/B08F4GGQ2K)
-* ~~[Essentialism](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Less/dp/B00IWYP5NI)
+* ~~[Effortless](https://www.amazon.com/Effortless-Make-Easier-What-Matters-ebook/dp/B08F4GGQ2K)~~
+* ~~[Essentialism](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Less/dp/B00IWYP5NI)~~
 * ~~[The War of Art](https://www.amazon.com/gp/product/1936891026/)~~
 * ~~[Call Sign Chaos](https://www.amazon.com/gp/product/0812996836/)~~
 * ~~[Leaders Eat Last](https://www.amazon.com/gp/product/B00DGZKQM8)~~
@@ -80,6 +81,10 @@ A place to keep track of books I find interesting or would like to read.
 ### Psychology & Philosophy
 
 * [Spark](https://www.amazon.com/Spark-Revolutionary-Science-Exercise-Brain/dp/0316113506)
+* ~~[Atomic Habits](https://www.amazon.com/dp/B07RFSSYBH?plink=uXSDwFqL5KlH3OyG)~~
+* ~~[The Power of Positive Thinking](https://www.amazon.com/Power-of-Positive-Thinking-audiobook/dp/B001K56P3K)~~
+* ~~[Think Again](https://www.amazon.com/Think-Again-Power-Knowing-What/dp/B08HJQHNH9)~~
+* ~~[Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth-ebook/dp/B010MH9V3W)~~
 * ~~[Flow](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202)~~
 * ~~[Range](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM)~~
 * ~~[The Righteous Mind](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777)~~
