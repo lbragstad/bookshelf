@@ -5,6 +5,7 @@ A place to keep track of books I find interesting or would like to read.
 ## Reading
 
 * [Programming Kubernetes](https://www.amazon.com/Programming-Kubernetes-Developing-Cloud-Native-Applications/dp/1492047104)
+* [Stolen Focus](https://www.amazon.com/Stolen-Focus-Attention-Think-Deeply-ebook/dp/B093G9TS91)
 
 ## Read
 
@@ -77,6 +78,7 @@ A place to keep track of books I find interesting or would like to read.
 1. [Ego Is the Enemy](https://www.amazon.com/gp/product/B015NTIXWE)
 1. [Stillness Is the Key](https://www.amazon.com/gp/product/B07MJ3TDCZ)
 1. [Mediations](https://www.amazon.com/Meditations-New-Translation-Modern-Library-ebook/dp/B000FC1JAI)
+1. [The Good Life](https://www.amazon.com/Good-Life-Lessons-Scientific-Happiness/dp/198216669X)
 
 ## Writing
 
