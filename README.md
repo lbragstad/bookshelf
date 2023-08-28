@@ -5,7 +5,8 @@ A place to keep track of books I find interesting or would like to read.
 ## Reading
 
 * [Programming Kubernetes](https://www.amazon.com/Programming-Kubernetes-Developing-Cloud-Native-Applications/dp/1492047104)
-* [Stolen Focus](https://www.amazon.com/Stolen-Focus-Attention-Think-Deeply-ebook/dp/B093G9TS91)
+* [Courage Is Calling](https://www.penguinrandomhouse.com/books/646295/courage-is-calling-by-ryan-holiday/)
+* [Epictetus - Discourses](https://www.amazon.com/Discourses-Epictetus/dp/1537427180)
 
 ## Read
 
@@ -62,6 +63,7 @@ A place to keep track of books I find interesting or would like to read.
 1. [How to Influence People](https://www.amazon.com/gp/product/B00A0VP6AI/)
 1. [How Successful People Think](https://www.amazon.com/gp/product/B00199RHE8/)
 1. [Winning with People](https://www.amazon.com/gp/product/B0050OX37I/)
+1. [Stolen Focus](https://www.amazon.com/Stolen-Focus-Attention-Think-Deeply-ebook/dp/B093G9TS91)
 
 ## Psychology & Philosophy
 
