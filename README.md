@@ -5,8 +5,8 @@ A place to keep track of books I find interesting or would like to read.
 ## Reading
 
 * [Programming Kubernetes](https://www.amazon.com/Programming-Kubernetes-Developing-Cloud-Native-Applications/dp/1492047104)
-* [Courage Is Calling](https://www.penguinrandomhouse.com/books/646295/courage-is-calling-by-ryan-holiday/)
 * [Epictetus - Discourses](https://www.amazon.com/Discourses-Epictetus/dp/1537427180)
+* [The Happiness Project](https://gretchenrubin.com/books/the-happiness-project/)
 
 ## Read
 
@@ -81,6 +81,7 @@ A place to keep track of books I find interesting or would like to read.
 1. [Stillness Is the Key](https://www.amazon.com/gp/product/B07MJ3TDCZ)
 1. [Mediations](https://www.amazon.com/Meditations-New-Translation-Modern-Library-ebook/dp/B000FC1JAI)
 1. [The Good Life](https://www.amazon.com/Good-Life-Lessons-Scientific-Happiness/dp/198216669X)
+1. [Courage Is Calling](https://www.penguinrandomhouse.com/books/646295/courage-is-calling-by-ryan-holiday/)
 
 ## Writing
 
