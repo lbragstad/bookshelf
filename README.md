@@ -50,7 +50,6 @@ A place to keep track of books I find interesting or would like to read.
 1. [Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/)
 1. [Remote](https://www.amazon.com/gp/product/B00C0ALZ0W)
 1. [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/)
-1. [Don't Sweat the Small Stuff and It's All Small Stuff](https://www.amazon.com/Dont-Sweat-Small-Stuff-Its-ebook/dp/B000FC1VX8)
 1. [Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/)
 1. [Remote](https://www.amazon.com/gp/product/B00C0ALZ0W)
 1. [It Doesn't Have To Be Crazy At Work](https://www.amazon.com/gp/product/0008323445/)
