@@ -6,7 +6,7 @@ A place to keep track of books I find interesting or would like to read.
 
 * [Programming Kubernetes](https://www.amazon.com/Programming-Kubernetes-Developing-Cloud-Native-Applications/dp/1492047104)
 * [Epictetus - Discourses](https://www.amazon.com/Discourses-Epictetus/dp/1537427180)
-* [The Happiness Project](https://gretchenrubin.com/books/the-happiness-project/)
+* [Discipline Is Destiny](https://www.amazon.com/Discipline-Destiny-Power-Self-Control-Virtues-ebook/dp/B09PB1SB72)
 
 ## Read
 
@@ -81,6 +81,8 @@ A place to keep track of books I find interesting or would like to read.
 1. [Mediations](https://www.amazon.com/Meditations-New-Translation-Modern-Library-ebook/dp/B000FC1JAI)
 1. [The Good Life](https://www.amazon.com/Good-Life-Lessons-Scientific-Happiness/dp/198216669X)
 1. [Courage Is Calling](https://www.penguinrandomhouse.com/books/646295/courage-is-calling-by-ryan-holiday/)
+1. [The Happiness Project](https://gretchenrubin.com/books/the-happiness-project/)
+1. [Man's Search for Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI)
 
 ## Writing
 
