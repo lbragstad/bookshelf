@@ -4,7 +4,6 @@ A place to keep track of books I find interesting or would like to read.
 
 ## Reading
 
-* [Programming Kubernetes](https://www.amazon.com/Programming-Kubernetes-Developing-Cloud-Native-Applications/dp/1492047104)
 * [Epictetus - Discourses](https://www.amazon.com/Discourses-Epictetus/dp/1537427180)
 * [The 48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197)
 
@@ -29,6 +28,7 @@ A place to keep track of books I find interesting or would like to read.
 1. [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287)
 1. [Set Phasers to Stun](https://www.amazon.com/gp/product/0963617885/)
 1. [Building Secure & Reliable Systems](https://landing.google.com/sre/books/)
+1. [Programming Kubernetes](https://www.amazon.com/Programming-Kubernetes-Developing-Cloud-Native-Applications/dp/1492047104)
 
 ### Business & Economics
 
