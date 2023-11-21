@@ -6,6 +6,7 @@ A place to keep track of books I find interesting or would like to read.
 
 * [Programming Kubernetes](https://www.amazon.com/Programming-Kubernetes-Developing-Cloud-Native-Applications/dp/1492047104)
 * [Epictetus - Discourses](https://www.amazon.com/Discourses-Epictetus/dp/1537427180)
+* [The 48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197)
 
 ## Read
 
