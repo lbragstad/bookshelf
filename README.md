@@ -5,7 +5,8 @@ A place to keep track of books I find interesting or would like to read.
 ## Reading
 
 * [Epictetus - Discourses](https://www.amazon.com/Discourses-Epictetus/dp/1537427180)
-* [The 48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197)
+* [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X)
+* [Hidden Potential](https://www.amazon.com/Hidden-Potential-Science-Achieving-Greater/dp/B0C5Y6DM2D)
 
 ## Read
 
@@ -63,6 +64,7 @@ A place to keep track of books I find interesting or would like to read.
 1. [How Successful People Think](https://www.amazon.com/gp/product/B00199RHE8/)
 1. [Winning with People](https://www.amazon.com/gp/product/B0050OX37I/)
 1. [Stolen Focus](https://www.amazon.com/Stolen-Focus-Attention-Think-Deeply-ebook/dp/B093G9TS91)
+1. [Be Useful](https://www.amazon.com/Be-Useful-Seven-Tools-Life/dp/0593655958)
 
 ## Psychology & Philosophy
 
@@ -84,6 +86,7 @@ A place to keep track of books I find interesting or would like to read.
 1. [Discipline Is Destiny](https://www.amazon.com/Discipline-Destiny-Power-Self-Control-Virtues-ebook/dp/B09PB1SB72)
 1. [The Happiness Project](https://gretchenrubin.com/books/the-happiness-project/)
 1. [Man's Search for Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI)
+1. [The 48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197)
 
 ## Writing
 
